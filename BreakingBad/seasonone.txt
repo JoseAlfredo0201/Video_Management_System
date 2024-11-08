@@ -1,0 +1,7 @@
+1|Piloto|58|Drama, Crimen, Suspenso
+2|El gato en la bolsa...|48|Drama, Crimen, Suspenso
+3|...y la bolsa en el río|47|Drama, Crimen, Suspenso
+4|Cancer Man|48|Drama, Crimen, Suspenso
+5|Gray Matter|48|Drama, Crimen, Suspenso
+6|Crazy Handful of Nothin'|47|Drama, Crimen, Suspenso
+7|A No-Rough-Stuff-Type Deal|48|Drama, Crimen, Suspenso

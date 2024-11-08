@@ -1,0 +1,5 @@
+1|Ajedrez-2|30|2|3|Masculino
+2|Pablo|30|1|5|Masculino
+3|Juan|240|0|0|terror
+4|XD|240|1|5|Terror
+5|Ajedrez-3|240|0|0|Terror
